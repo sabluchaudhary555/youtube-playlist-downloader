@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-
-NOTE: This script only cleans up leftover files. If the download
+This script only cleans up leftover files. If the download
 archive (downloaded_archive.txt) already marked those episodes as
 "downloaded" before the merge failed, you'll also need to run
 revalidate_downloads.py afterwards — otherwise yt-dlp will skip
